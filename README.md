@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @HafsaHanif035
-- 👀 I’m interested in learning Python 
-- 🌱 I’m currently learning Artificial Intelligence 
-- 💞️ I’m looking to collaborate on Python programming 
+- 👋 Hi, I’m @HafsaHanif
+- 👀 I’m learning android application development  
+- 💞️ I’m looking to collaborate on application development 
 
 
 <!---
