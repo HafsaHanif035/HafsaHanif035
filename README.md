@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HafsaHanif
-- 👀 I’m learning android application development  
+- 👀 I’m learning mobile application development  
 - 💞️ I’m looking to collaborate on application development 
 
 
